@@ -1,0 +1,19 @@
+[
+  {
+    "title": "text Changer",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.It is for learning react state management.",
+    "skills": ["React"],
+    "demo": "https://text-changer-react.vercel.app/",
+    "source": "https://github.com/kalpit-agarwal/textChanger-React"
+  },
+  {
+    "title": " predict number change",
+    "imageSrc": "projects/project.png",
+    "description": "Data is fed so that our machine can recognize any handwritten digits and numbers.",
+    "skills": ["Machine learning, Scikit learn"],
+    "demo": " ",
+    "source": "https://github.com/bajajdivya/mnist_t"
+  } 
+ 
+]
